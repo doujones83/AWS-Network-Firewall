@@ -1,4 +1,4 @@
-# AWS-Network-Firewall
+
     [X]  •    Configure the AWS Network Firewall using the Network Firewall rule groups to filter outbound web traffic.
 
       •    Create DNS Firewall Domain List, rule groups and rules using your custom domain lists.
